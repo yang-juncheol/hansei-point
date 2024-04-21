@@ -18,19 +18,22 @@
 메인페이지
 ---
 >처음 접속했을때 화면입니다. 로그인 페이지와 적립 회원가입 페이지로 이동할수있습니다.
-!image
+![image](https://github.com/yang-juncheol/hansei-point/assets/130765023/170a40a5-5c9f-4430-a56b-54432807f056)
+
 ---
 회원가입 페이지
 ---
 >휴대폰 번호와,이름,비밀번호를 입력하면 로그인창으로 이동할수있습니다.
-!image
+![image](https://github.com/yang-juncheol/hansei-point/assets/130765023/a90d6807-4d4d-4248-93e2-96e2c3b63d34)
 ---
 로그인 페이지
 ---
 >회원가입된 전화번호와 패스워드로 로그인할수있습니다. 회원가입 페이지로 넘어갈수있습니다.
-!image
+![image](https://github.com/yang-juncheol/hansei-point/assets/130765023/64fcf650-3e8e-4674-901d-4ae753eccd28)
+
 ---
 적립 페이지
 ---
 >마우스로 클릭해 전화번호를 넣어서 자신의 계정에 포인트를 적립시킬수있습니다.
-!image
+![image](https://github.com/yang-juncheol/hansei-point/assets/130765023/08f763a1-c8d2-4eea-b0d4-8e356e6310d4)
+
